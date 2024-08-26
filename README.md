@@ -57,5 +57,5 @@ The source code for RescueLink is private. If you are interested in accessing it
 
 ## Contact
 
-For inquiries or to request the source code, please contact me via Email
+For inquiries or to request the source code, please contact me
 
