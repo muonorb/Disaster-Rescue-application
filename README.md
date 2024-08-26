@@ -31,7 +31,7 @@ RescueLink is a Flutter emergency response application designed to quickly submi
 
 3. **Home Screen**
    
-   RescueLink Organization Details Screen
+   RescueLink Home Screen
    
    <img width="368" alt="Screenshot 2024-08-26 at 5 04 32 AM" src="https://github.com/user-attachments/assets/61516d47-4282-4d9a-bfd8-53feb0a9b5f1">
    
