@@ -25,18 +25,22 @@ RescueLink is a Flutter emergency response application designed to quickly submi
 
 1. **SOS Screen**
    RescueLink SOS Screen
+   
    <img width="369" alt="Screenshot 2024-08-26 at 5 03 38 AM" src="https://github.com/user-attachments/assets/17b22618-f4c5-4ae4-9777-8cd3f62a467f">
 
 3. **Home Screen**
    RescueLink Organization Details Screen
+   
    <img width="368" alt="Screenshot 2024-08-26 at 5 04 32 AM" src="https://github.com/user-attachments/assets/61516d47-4282-4d9a-bfd8-53feb0a9b5f1">
    
-4. **Organization Details Screen**
+5. **Organization Details Screen**
    RescueLink Organization Details Screen
+   
    <img width="384" alt="Screenshot 2024-08-26 at 5 13 16 AM" src="https://github.com/user-attachments/assets/743276ed-8177-476b-bb5e-4827d080ded4">
 
-6. **Emergency List Screen**
+7. **Emergency List Screen**
    RescueLink Emergency List Screen
+   
    <img width="404" alt="Screenshot 2024-08-26 at 5 15 03 AM" src="https://github.com/user-attachments/assets/364b000f-19a7-4200-afdf-f93edfb145b5">
 
 ## Installation
