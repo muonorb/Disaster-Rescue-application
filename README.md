@@ -47,7 +47,7 @@ RescueLink is a Flutter emergency response application designed to quickly submi
 
 Only the APK file is available for download. To get the APK and more details:
 
-1. Download the APK file.
+1. Download the APK file "https://drive.google.com/drive/folders/1tIY6DDNv64vnVCp84IwCT9HnN_nkzOzs?usp=sharing".
 2. Install the APK on your Android device.
 3. Follow the in-app instructions to get started.
 
